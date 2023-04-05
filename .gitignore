@@ -1,0 +1,11 @@
+# Fichier de configuration Eclipse
+.project
+# Fichiers de configuration Idea
+.idea
+*.iml
+# Archives Zip des composants
+*.zip
+# Répertoire de travail de Talend bin
+bin
+# data input
+Input-data
